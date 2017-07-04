@@ -1,5 +1,5 @@
 
-TITLE: 
+TITLE:
 Elate - One Page Responsive Free HTML5 template
 
 AUTHOR:
